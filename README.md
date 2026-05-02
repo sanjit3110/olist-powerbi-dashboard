@@ -27,85 +27,39 @@ This dashboard analyzes revenue, orders, customer behavior, and delivery perform
 
 •	Understand customer payment behavior
 
-________________________________________
- Key Insights
- Revenue Trend
- 
-Revenue showed steady growth from January to August, followed by a sharp decline of approximately 56% in September. This drop was primarily driven by a decrease in order volume, while AOV remained stable.
-________________________________________
- Orders & Demand
- 
-Orders increased consistently until August but dropped significantly in September (~60%), indicating a potential demand or operational issue.
-________________________________________
- Average Order Value (AOV)
- 
-AOV remained stable throughout the year (~$130–$150), indicating that pricing and basket size were not responsible for the revenue decline.
-________________________________________
- Regional Performance
- 
-São Paulo (SP) contributed the highest revenue, followed by Rio de Janeiro (RJ) and Minas Gerais (MG), showing strong geographic concentration.
-________________________________________
- Product Category Performance
- 
-Top categories such as beleza_saude and cama_mesa_banho contributed the majority of revenue, highlighting a dependency on a few key segments.
-________________________________________
- Payment Behavior
- 
-Credit cards accounted for approximately 77% of total revenue, indicating strong user preference for digital payments.
-________________________________________
- Delivery Performance
- 
-•	On-time delivery rate: 93.23%
 
-•	Late deliveries: 6.77%
+##  Key Insights
 
-This indicates strong logistics performance with minor room for improvement.
+* Revenue dropped by **56% in September**, driven by a **60% decline in orders**
+* AOV remained stable ($130–$150), indicating the issue is **demand, not pricing**
+* Revenue is highly concentrated in top categories (beleza_saude, cama_mesa_banho)
+* São Paulo (SP) is the highest revenue contributor → strong geographic dependency
+* Credit cards contribute 77% of revenue → dominant payment method
+* On-time delivery rate is **93.23%**, showing strong logistics performance
 
-________________________________________
- Freight Analysis
- 
-Freight costs followed a similar trend to orders, peaking before August and dropping significantly in September, confirming dependency on order volume.
-________________________________________
- Seller Performance
- 
-A small group of sellers contributes a disproportionately high share of revenue, indicating performance imbalance.
-________________________________________
- Key Business Conclusion
- 
-The business experienced strong growth until August, followed by a significant decline in September due to reduced order volume. Pricing remained stable, suggesting demand-side or operational issues rather than pricing inefficiencies.
-________________________________________
- Tools Used
- 
-•	Power BI
+---
 
-•	SQL
+##  Dashboard Features
 
-•	Data Modeling
-
-•	DAX
-
-________________________________________
- Dashboard Features
- 
-•	Multi-page interactive dashboard
-
-•	KPI tracking (Revenue, Orders, AOV, Delivery metrics)
-
-•	Time-based trend analysis
-
-•	Category and regional breakdown
-
-•	Delivery performance monitoring
-
-________________________________________
- Future Improvements
- 
-•	Add forecasting for revenue trends
-
-•	Incorporate customer segmentation analysis
-
-•	Build automated anomaly detection
-
-•	Improve drill-down capabilities
+* Revenue & Orders trend analysis
+* Category and regional performance breakdown
+* Customer payment behavior insights
+* Delivery performance monitoring
 
 
+##  Tools Used
+
+* Power BI (DAX, Data Modeling)
+* SQL
+
+
+##  Business Conclusion
+
+The business experienced steady growth until August, followed by a sharp decline due to reduced order volume. Since pricing remained stable, the issue is likely demand-related or operational rather than pricing inefficiency.
+
+
+##  Future Improvements
+
+* Add forecasting for revenue trends
+* Perform customer segmentation analysis
+* Build anomaly detection for sudden drops
