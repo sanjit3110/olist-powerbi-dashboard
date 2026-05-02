@@ -46,8 +46,11 @@ ________________________________________
  Delivery Performance
  
 •	On-time delivery rate: 93.23%
+
 •	Late deliveries: 6.77%
+
 This indicates strong logistics performance with minor room for improvement.
+
 ________________________________________
  Freight Analysis
  
@@ -64,24 +67,37 @@ ________________________________________
  Tools Used
  
 •	Power BI
+
 •	SQL
+
 •	Data Modeling
+
 •	DAX
+
 ________________________________________
  Dashboard Features
  
 •	Multi-page interactive dashboard
+
 •	KPI tracking (Revenue, Orders, AOV, Delivery metrics)
+
 •	Time-based trend analysis
+
 •	Category and regional breakdown
+
 •	Delivery performance monitoring
+
 ________________________________________
  Future Improvements
  
 •	Add forecasting for revenue trends
+
 •	Incorporate customer segmentation analysis
+
 •	Build automated anomaly detection
+
 •	Improve drill-down capabilities
+
 ________________________________________
 Author
 
