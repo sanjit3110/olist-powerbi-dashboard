@@ -98,7 +98,4 @@ ________________________________________
 
 •	Improve drill-down capabilities
 
-________________________________________
-Author
-
-SANJIT
+![dashboard preview].(https://github.com/sanjit3110/olist-powerbi-dashboard/blob/main/Revenue.png).
