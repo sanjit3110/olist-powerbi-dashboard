@@ -8,10 +8,15 @@ The dashboard is designed to help stakeholders quickly identify trends, performa
 
  
 •	Analyze revenue trends over time
+
 •	Identify key drivers of revenue decline
+
 •	Evaluate product category performance
+
 •	Assess delivery efficiency and logistics impact
+
 •	Understand customer payment behavior
+
 ________________________________________
  Key Insights
  Revenue Trend
