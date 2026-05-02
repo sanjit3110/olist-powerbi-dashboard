@@ -4,6 +4,15 @@
 This project analyses e-commerce sales data using Power BI and SQL to uncover key business insights related to revenue, customer behaviour, product performance, and delivery efficiency.
 The dashboard is designed to help stakeholders quickly identify trends, performance gaps, and growth opportunities.
 
+# DASHBOARD PREVIEW
+
+(https://github.com/sanjit3110/olist-powerbi-dashboard/blob/main/Revenue.png)
+(
+
+
+This dashboard analyzes revenue, orders, customer behavior, and delivery performance to identify key business trends and performance gaps.
+
+
  Objectives
 
  
@@ -98,4 +107,4 @@ ________________________________________
 
 •	Improve drill-down capabilities
 
-![dashboard preview].(https://github.com/sanjit3110/olist-powerbi-dashboard/blob/main/Revenue.png).
+
